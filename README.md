@@ -54,3 +54,7 @@
 <br>
 
 ### Connect with me 👋:
+
+[<img align="left" alt="code-Jamm.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
+
+
