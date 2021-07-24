@@ -1,6 +1,6 @@
 # Day_Night_toggle-Pure_CSS ❤️
 
-![](https://img.shields.io/github/languages/count/gowthamrajk/ProgressBar_Animation_With_jQuery)   ![](https://img.shields.io/github/languages/top/gowthamrajk/ProgressBar_Animation_With_jQuery)
+![](https://img.shields.io/github/languages/count/gowthamrajk/Day_Night_toggle-Pure_CSS)   ![](https://img.shields.io/github/languages/top/gowthamrajk/Day_Night_toggle-Pure_CSS)
 
 **🌐 Demo :  https://gowthamrajk.github.io/Day_Night_toggle-Pure_CSS/**
 
