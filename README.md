@@ -22,7 +22,7 @@
 
 # UI SneakPeak ❤️ 
 
-## Day Mode
+## Day Mode ☀️
 
 
 ## Night Mode
