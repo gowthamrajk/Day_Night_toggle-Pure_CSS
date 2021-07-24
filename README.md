@@ -24,6 +24,8 @@
 
 ## Day Mode ☀️
 
+![image](https://user-images.githubusercontent.com/43011442/126862674-9da22198-a45f-48ca-ad24-ea43af347622.png)
+
 
 ## Night Mode
 
